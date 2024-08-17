@@ -8,7 +8,7 @@ En esta practica se genero un dashboard con 4 graficos diferentes, usando inform
 ![image](https://github.com/user-attachments/assets/45c6b88d-46be-4d18-a2e4-d998620369bc)
 
 En este grafico se muestra la conformacion de cada departamento de acuerdo al genero de sus miembros. A partir de este grafico podemos obtener tambien informacion sobre cuales son las areas con mayor numero de empleados. 
-De igual forma se muestra el total de hombres y mujeres que conforman todas las areas.
+De igual forma se muestra el total de hombres y mujeres que conforman la compañía.
 
 
 
